@@ -1,5 +1,5 @@
 <?php
-include_once 'partials/_header.php';
+include_once 'partials/header.php';
 ?>
 
 <!-----Main Content------>
@@ -8,4 +8,4 @@ include_once 'partials/_header.php';
 </main>
 
 <?php
-include_once 'partials/_footer.php';
+include_once 'partials/footer.php';
